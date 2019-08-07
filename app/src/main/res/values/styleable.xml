@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProductLineDetail2">
+
+        <attr name="textPrincipal" format="string"/>
+        <attr name="textPrincipalColor" format="color"/>
+        <attr name="textPrincipalSize" format="dimension"/>
+
+        <attr name="textValue" format="string"/>
+        <attr name="textValueColor" format="color"/>
+        <attr name="textValueSize" format="dimension"/>
+
+
+        <attr name="imageUrl" format="string"/>
+        <attr name="imageDrawable" format="integer"/>
+
+        <attr name="lineDividerEnable" format="boolean"/>
+        <attr name="lineDividerColor" format="color"/>
+    </declare-styleable>
+</resources>
